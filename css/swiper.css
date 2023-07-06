@@ -2,7 +2,25 @@
     width: 60%;
 }
 
-.swiper-slide img {
+.swiper-div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 3em;
+}
+
+.swiper-img {
+    margin-left: 3em;
+    width: 30px;
+    height: 30px;
+}
+
+.swiper-titulo {
+    color: var(--color-white);
+    margin-left: 1em;
+    font-size: 20px;
+}
+
+.swiper-slide-img {
     width: 100%;
 }
 
