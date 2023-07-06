@@ -1,0 +1,12 @@
+@import url('css/header.css');
+@import url('css/swiper.css');
+
+
+:root {
+    --primary-font:'Josefin Sans', sans-serif;
+    --color-white: #ffffff;
+}
+
+body {
+    background-color: #2c3440;
+}
