@@ -13,6 +13,8 @@
 }
 
 .descricao__texto {
+    margin-top: 1em;
+    margin-bottom: 1em;
     font-family: var(--primary-font);
     color: var(--color-white);
     margin-left: 4px;
