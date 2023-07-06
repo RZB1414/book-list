@@ -1,10 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1.5em;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    background-color: #5A6988;
+}
+
 .header__titulo {
     color: var(--color-white);
     font-family: var(--primary-font);
-    font-size: 2.5rem;
+    font-size: 1.5em;
     font-weight: 700;
-    display: flex;
-    justify-content: center;
-    margin-top: .5em;
-    margin-bottom: 1em;
+    margin: 0 .5em;
+}
+
+.header__img {
+    margin: 0 .5em;
 }
