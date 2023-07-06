@@ -7,6 +7,16 @@
     background-color: #5A6988;
 }
 
+.header__menu {
+    width: 24px;
+    height: 24px;
+    background-image: url('../img/Menu.svg');
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: .5em;
+}
+
 .header__titulo {
     color: var(--color-white);
     font-family: var(--primary-font);
@@ -15,6 +25,6 @@
     margin: 0 .5em;
 }
 
-.header__img {
-    margin: 0 .5em;
+.header__icones {
+    margin-right: .5em;
 }
