@@ -1,4 +1,4 @@
-.swiper {
+.bookSwiper {
     width: 50%;
 }
 
@@ -29,3 +29,32 @@
 .swiper-button-next {
     display: none;
 }
+
+.swiper-scroll-titulo {
+    margin-bottom: 1em;
+    color: var(--color-white);
+    font-size: 20px;
+    font-family: var(--primary-font);
+}
+
+.swiper-slide {
+    height: auto;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  .swiper-slide p {
+    font-size: 18px;
+    color: var(--color-white);
+    font-family: var(--primary-font);
+  }
+
+  .mySwiper {
+      margin-top: 2em;
+      margin-bottom: 2em;
+      padding: 1em;
+      justify-content: center;
+      height: 312px;
+      width: 80%;
+      overflow: hidden;
+  }
