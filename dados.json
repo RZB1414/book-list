@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "livro": "Fundação",
+        "img": "../img/fundacao.jpg",
+        "descricao": "I absolutely loved the book 'Foundation' by Isaac Asimov. It's a timeless masterpiece that captivated me from start to finish.\n Asimov's vision of a crumbling Galactic Empire and the birth of a new civilization is brilliantly executed. The intricate plot filled with political intrigue and the clash of ideologies kept me on the edge of my seat.\nI was fascinated by the concept of psychohistory and how Hari Seldon's predictions shaped the course of history. The way Asimov seamlessly weaves together science and fiction is simply remarkable.\nThe characters, while some may argue lacked depth, felt real and relatable to me. I was emotionally invested in their journeys and their struggles to navigate a hanging universe.\nThe vastness of the universe created by Asimov and the thought-provoking themes it explores left a lasting impact on me. 'Foundation' is a true classic that has stood the test of time, and I highly recommend it to anyone who enjoys epic science fiction sagas."
+    },
+    {
+        "id": 2,
+        "livro": "Fundação e império",
+        "img": "../img/fundacao-e-imperio.png",
+        "descricao": "Foundation and Empire is the second novel in Isaac Asimov's iconic science fiction series, known as the Foundation series. It continues the epic story of Hari Seldon's Foundation, a group dedicated to preserving knowledge and civilization in the face of the impending collapse of the Galactic Empire. The book delves deeper into the political intrigue and the battle of wits between the Foundation and its adversaries. It introduces memorable characters, presents intricate plot twists, and explores the concept of psychohistory—a fictional science that predicts the behavior of large populations. Published in 1952, Foundation and Empire is widely praised for its storytelling, world-building, and thought-provoking ideas."
+    }
+]
