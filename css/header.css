@@ -18,7 +18,7 @@
     margin-left: .5em;
 }
 
-.cotainer__checkbox {
+.container__checkbox {
     display: none;
 }
 
@@ -50,6 +50,12 @@
     font-family: var(--primary-font);
 }
 
-.cotainer__checkbox:checked ~ .lista-menu {
+.lista-menu-link {
+    text-decoration: none;
+    color: var(--color-white);
+}
+
+.container__checkbox:checked ~ .lista-menu {
     display: block;
-}   
+}
+
