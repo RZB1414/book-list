@@ -37,6 +37,7 @@ body {
     text-align: center;
     background-color: #5A6988;
     color: var(--color-white);
+    margin-bottom: 1em;
 }
 
 .livro-container {
@@ -62,10 +63,9 @@ body {
 
 .livro-descricao {
     color: white;
-    font-size: 1.5em;
+    font-size: 1em;
     font-family: var(--primary-font);
     margin: .5em;
-    border: 1px solid white;
     padding: 1em;
     width: 80vw;
     height: 300px;
