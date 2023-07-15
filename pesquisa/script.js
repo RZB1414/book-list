@@ -27,7 +27,7 @@ button.addEventListener('click', (event) => {
                 const link = document.createElement('a');
                 link.classList.add('livro-link');
                 link.href = livro.volumeInfo.previewLink;
-                link.textContent = 'Leia mais';
+                link.textContent = 'Read more...';
                 livroContainer.appendChild(titulo);
                 livroContainer.appendChild(imagem);
                 livroContainer.appendChild(descricao);

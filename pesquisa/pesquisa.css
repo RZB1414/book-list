@@ -38,3 +38,42 @@ body {
     background-color: #5A6988;
     color: var(--color-white);
 }
+
+.livro-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 1em;
+}
+
+.livro-titulo {
+    color: white;
+    font-size: 2em;
+    font-family: var(--primary-font);
+    margin: 1em;
+}
+
+.livro-imagem {
+    width: 200px;
+    height: 300px;
+    margin: 1em;
+}
+
+.livro-descricao {
+    color: white;
+    font-size: 1.5em;
+    font-family: var(--primary-font);
+    margin: .5em;
+    border: 1px solid white;
+    padding: 1em;
+    width: 80vw;
+    height: 300px;
+    overflow: auto;
+    text-align: justify;
+}
+
+.livro-link {
+    color: white;
+    text-decoration: none;
+}
