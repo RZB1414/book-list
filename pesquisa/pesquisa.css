@@ -68,7 +68,7 @@ body {
     margin: .5em;
     padding: 1em;
     width: 80vw;
-    height: 300px;
+    max-height: 300px;
     overflow: auto;
     text-align: justify;
 }
