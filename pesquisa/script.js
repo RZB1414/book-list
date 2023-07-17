@@ -21,26 +21,69 @@ button.addEventListener('click', (event) => {
                 const titulo = document.createElement('h2');
                 titulo.classList.add('livro-titulo');
                 titulo.textContent = livro.volumeInfo.title;
-                const menu = document.createElement('img');
-                menu.classList.add('livro-menu');
-                menu.src = '../../img/menu-vertical.png'
-                titulo.appendChild(menu);
-                tituloContainer.appendChild(titulo);
-                const descricao = document.createElement('p');
-                descricao.classList.add('livro-descricao');
-                descricao.textContent = livro.volumeInfo.description;
-                const imagem = document.createElement('img');
-                imagem.classList.add('livro-imagem');
-                imagem.src = livro.volumeInfo.imageLinks.thumbnail;
-                const link = document.createElement('a');
-                link.classList.add('livro-link');
-                link.href = livro.volumeInfo.previewLink;
-                link.textContent = 'Read more...';
-                livroContainer.appendChild(tituloContainer);
-                livroContainer.appendChild(imagem);
-                livroContainer.appendChild(descricao);
-                livroContainer.appendChild(link);
-                livrosContainer.appendChild(livroContainer);
-            })
+
+                const divCheckbox = document.createElement('div');
+                divCheckbox.classList.add('container__checkbox');
+                const checkBox = document.createElement('input');
+                checkBox.type = 'checkbox';
+                checkBox.id = 'menu';
+                checkBox.classList.add('container__botao');
+                const label = document.createElement('label');
+                label.setAttribute('for', 'menu');
+                label.classList.add('container__rotulo');
+                const span = document.createElement('span');
+                span.classList.add('cabeçalho__menu-hamburguer');
+                label.appendChild(span);
+                divCheckbox.appendChild(checkBox);
+                divCheckbox.appendChild(label);
+
+                span.addEventListener('click', (event) => {
+                    checkBox.classList.toggle('active');
+                    listaMenu.style.display = checkBox.classList.contains('active') ? 'block' : 'none';
+                  });
+
+            const listaMenu = document.createElement('ul');
+            listaMenu.classList.add('lista-menu');
+            const itemMenu1 = document.createElement('li');
+            itemMenu1.classList.add('lista-menu-item');
+
+            const linkMenu1 = document.createElement('a');
+            linkMenu1.classList.add('lista-menu-link');
+            linkMenu1.href = '#';
+            linkMenu1.textContent = 'Add to library';
+
+            const itemMenu2 = document.createElement('li');
+            itemMenu1.classList.add('lista-menu-item');
+
+            const linkMenu2 = document.createElement('a');
+            linkMenu2.classList.add('lista-menu-link');
+            linkMenu2.href = '#';
+            linkMenu2.textContent = 'Remove from library';
+            
+            itemMenu1.appendChild(linkMenu1);
+            itemMenu2.appendChild(linkMenu2);
+            listaMenu.appendChild(itemMenu1);
+            listaMenu.appendChild(itemMenu2);
+
+
+            tituloContainer.appendChild(titulo);
+            tituloContainer.appendChild(divCheckbox);
+            tituloContainer.appendChild(listaMenu);
+            const descricao = document.createElement('p');
+            descricao.classList.add('livro-descricao');
+            descricao.textContent = livro.volumeInfo.description;
+            const imagem = document.createElement('img');
+            imagem.classList.add('livro-imagem');
+            imagem.src = livro.volumeInfo.imageLinks.thumbnail;
+            const link = document.createElement('a');
+            link.classList.add('livro-link');
+            link.href = livro.volumeInfo.previewLink;
+            link.textContent = 'Read more...';
+            livroContainer.appendChild(tituloContainer);
+            livroContainer.appendChild(imagem);
+            livroContainer.appendChild(descricao);
+            livroContainer.appendChild(link);
+            livrosContainer.appendChild(livroContainer);
         })
+})
 })

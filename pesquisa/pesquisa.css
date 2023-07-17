@@ -52,8 +52,49 @@ body {
     margin-left: 1em;
 }
 
+.livro-titulo-container {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.container__checkbox {
+    display: flex;
+    justify-content: center;
+}
+
+.container__botao {
+    display: none;
+}
+
+.cabeçalho__menu-hamburguer {
+    width: 24px;
+    height: 24px;
+    background-image: url('../img/menu-vertical.png');
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.lista-menu {
+    display: none;
+    position: absolute;
+    top: 80%;
+    left: 30%;
+    width: 40vw;
+    background-color: #5A6988;
+    text-align: center;
+
+}
+
+.lista-menu-link {
+    font-family: var(--primary-font);
+    color: white;
+    text-decoration: none;
+}
+
 .livro-titulo {
-    
+    position: relative;
     color: white;
     font-size: 2em;
     font-family: var(--primary-font);
@@ -82,4 +123,3 @@ body {
     color: white;
     text-decoration: none;
 }
-
