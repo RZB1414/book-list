@@ -48,7 +48,12 @@ body {
     margin: 1em;
 }
 
+.livro-menu {
+    margin-left: 1em;
+}
+
 .livro-titulo {
+    
     color: white;
     font-size: 2em;
     font-family: var(--primary-font);
@@ -77,3 +82,4 @@ body {
     color: white;
     text-decoration: none;
 }
+

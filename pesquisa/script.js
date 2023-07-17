@@ -1,5 +1,6 @@
 const input = document.querySelector('.pesquisa-input');
 const button = document.querySelector('.pesquisa-botao');
+const menuList = document.querySelector('.livro-menu');
 
 button.addEventListener('click', (event) => {
     event.preventDefault();
@@ -15,9 +16,16 @@ button.addEventListener('click', (event) => {
             livros.forEach(livro => {
                 const livroContainer = document.createElement('div');
                 livroContainer.classList.add('livro-container');
+                const tituloContainer = document.createElement('div');
+                tituloContainer.classList.add('livro-titulo-container');
                 const titulo = document.createElement('h2');
                 titulo.classList.add('livro-titulo');
                 titulo.textContent = livro.volumeInfo.title;
+                const menu = document.createElement('img');
+                menu.classList.add('livro-menu');
+                menu.src = '../../img/menu-vertical.png'
+                titulo.appendChild(menu);
+                tituloContainer.appendChild(titulo);
                 const descricao = document.createElement('p');
                 descricao.classList.add('livro-descricao');
                 descricao.textContent = livro.volumeInfo.description;
@@ -28,7 +36,7 @@ button.addEventListener('click', (event) => {
                 link.classList.add('livro-link');
                 link.href = livro.volumeInfo.previewLink;
                 link.textContent = 'Read more...';
-                livroContainer.appendChild(titulo);
+                livroContainer.appendChild(tituloContainer);
                 livroContainer.appendChild(imagem);
                 livroContainer.appendChild(descricao);
                 livroContainer.appendChild(link);
