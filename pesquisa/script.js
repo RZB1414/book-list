@@ -50,7 +50,7 @@ button.addEventListener('click', (event) => {
             const linkMenu1 = document.createElement('a');
             linkMenu1.classList.add('lista-menu-link');
             linkMenu1.href = '#';
-            linkMenu1.textContent = 'Add to library';
+            linkMenu1.textContent = 'Add';
 
             const itemMenu2 = document.createElement('li');
             itemMenu1.classList.add('lista-menu-item');
@@ -58,7 +58,7 @@ button.addEventListener('click', (event) => {
             const linkMenu2 = document.createElement('a');
             linkMenu2.classList.add('lista-menu-link');
             linkMenu2.href = '#';
-            linkMenu2.textContent = 'Remove from library';
+            linkMenu2.textContent = 'Remove';
             
             itemMenu1.appendChild(linkMenu1);
             itemMenu2.appendChild(linkMenu2);

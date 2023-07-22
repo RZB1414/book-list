@@ -79,22 +79,29 @@ body {
 .lista-menu {
     display: none;
     position: absolute;
-    top: 80%;
-    left: 30%;
-    width: 40vw;
+    top: 100px;
+    left: 100px;
+    width: 100px;
     background-color: #5A6988;
     text-align: center;
+    padding: 1em;
+    border-radius: 10px;
 
+}
+
+.lista-menu-item {
+    margin-bottom: .5em;
 }
 
 .lista-menu-link {
     font-family: var(--primary-font);
     color: white;
     text-decoration: none;
+    font-size: 1.5em;
+    font-weight: bold;
 }
 
 .livro-titulo {
-    position: relative;
     color: white;
     font-size: 2em;
     font-family: var(--primary-font);
