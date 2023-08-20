@@ -1,0 +1,12 @@
+.rodape__texto {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 1em;
+    margin-top: 3.5em;
+    color: var(--color-white);
+    font-family: var(--primary-font);
+    font-size: 1em;
+    font-weight: 700;
+    background-color: #5A6988;
+}

@@ -7,19 +7,60 @@
     <title>Pesquisas</title>
 
     <link rel="stylesheet" href="../css/reset.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&family=Poppins:wght@400;700&display=swap"
+        rel="stylesheet">
+
     <link rel="stylesheet" href="./pesquisa.css">
+    <link rel="stylesheet" href="../pesquisa/header-pesquisa.css">
+    <link rel="stylesheet" href="../pesquisa/footer-pesquisa.css">
+    
 </head>
 
 <body>
+    <header class="header">
+
+        <input type="checkbox" id="menu" class="container__checkbox-header">
+        <label for="menu" class="header__menu-label">
+            <span class="header__menu"></span>
+        </label>
+
+        <ul class="lista-menu-header">
+            <li class="lista-menu-item-header">
+                <a href="./pesquisa.html" class="lista-menu-link-header">Search</a>
+            </li>
+            <li class="lista-menu-item-header">
+                <a href="../index.html" class="lista-menu-link-header">Library</a>
+            </li>
+            <li class="lista-menu-item-header">
+                <a class="lista-menu-link-header">News</a>
+            </li>
+        </ul>
+
+        <h1 class="header__titulo">Start your adventure</h1>
+        <div class="header__icones">
+            <a href="#" class="header__icones-link"><img class="header__img" src="../img/Favoritos.svg"
+                    alt="Livros favoritos" /></a>
+            <a href="#" class="header__icones-link"><img class="header__img" src="../img/Usuario.svg"
+                    alt="Perfil do usuário" /></a>
+        </div>
+    </header>
 
     <form class="pesquisa">
-        <input type="search" class="pesquisa-input" placeholder="Start a new adventure">
+        <input type="search" class="pesquisa-input" placeholder=" Find your book">
         <button type="submit" class="pesquisa-botao">Search</button>
     </form>
 
-    <hr/>
+    <hr />
 
     <div class="livros-container"></div>
+
+    <footer class="rodape">
+        <h2 class="rodape__texto">Buiatti Group</h2>
+    </footer>
 
     <script type="module" src="script.js"></script>
 </body>
