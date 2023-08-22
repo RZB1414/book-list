@@ -86,24 +86,21 @@ body {
     position: absolute;
     top: 100px;
     left: 230px;
-    width: 100px;
+    width: 20%;
     background-color: #5A6988;
     text-align: center;
-    padding: 1em;
-    border-radius: 10px;
 
 }
 
 .lista-menu-item {
-    margin-bottom: .5em;
+    
 }
 
 .lista-menu-link {
     font-family: var(--primary-font);
     color: white;
     text-decoration: none;
-    font-size: 1.5em;
-    font-weight: bold;
+    font-size: 1em;
 }
 
 .livro-titulo {

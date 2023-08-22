@@ -41,6 +41,88 @@
       "imagem": "http://books.google.com/books/content?id=clOrZLvg56kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "link": "http://books.google.gr/books?id=clOrZLvg56kC&printsec=frontcover&dq=the+alienist&hl=&cd=1&source=gbs_api",
       "id": 6
+    },
+    {
+      "titulo": "Artemis",
+      "descricao": "The bestselling author of The Martian returns with an irresistible new near-future thriller—a heist story set on the moon. Jasmine Bashara never signed up to be a hero. She just wanted to get rich. Not crazy, eccentric-billionaire rich, like many of the visitors to her hometown of Artemis, humanity’s first and only lunar colony. Just rich enough to move out of her coffin-sized apartment and eat something better than flavored algae. Rich enough to pay off a debt she’s owed for a long time. So when a chance at a huge score finally comes her way, Jazz can’t say no. Sure, it requires her to graduate from small-time smuggler to full-on criminal mastermind. And it calls for a particular combination of cunning, technical skills, and large explosions—not to mention sheer brazen swagger. But Jazz has never run into a challenge her intellect can’t handle, and she figures she’s got the ‘swagger’ part down. The trouble is, engineering the perfect crime is just the start of Jazz’s problems. Because her little heist is about to land her in the middle of a conspiracy for control of Artemis itself. Trapped between competing forces, pursued by a killer and the law alike, even Jazz has to admit she’s in way over her head. She’ll have to hatch a truly spectacular scheme to have a chance at staying alive and saving her city. Jazz is no hero, but she is a very good criminal. That’ll have to do. Propelled by its heroine’s wisecracking voice, set in a city that’s at once stunningly imagined and intimately familiar, and brimming over with clever problem-solving and heist-y fun, Artemis is another irresistible brew of science, suspense, and humor from #1 bestselling author Andy Weir.",
+      "imagem": "http://books.google.com/books/content?id=a8KtDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "link": "http://books.google.gr/books?id=a8KtDgAAQBAJ&printsec=frontcover&dq=artemis&hl=&cd=1&source=gbs_api",
+      "id": 7
+    },
+    {
+      "titulo": "The Martian",
+      "descricao": "#1 NEW YORK TIMES BESTSELLER • “Brilliant . . . a celebration of human ingenuity [and] the purest example of real-science sci-fi for many years . . . utterly compelling.”—The Wall Street Journal The inspiration for the major motion picture Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. Now, he’s sure he’ll be the first person to die there. After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive—and even if he could get word out, his supplies would be gone long before a rescue could arrive. Chances are, though, he won’t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old “human error” are much more likely to kill him first. But Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills—and a relentless, dogged refusal to quit—he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him? NAMED ONE OF PASTE’S BEST NOVELS OF THE DECADE “A hugely entertaining novel [that] reads like a rocket ship afire . . . Weir has fashioned in Mark Watney one of the most appealing, funny, and resourceful characters in recent fiction.”—Chicago Tribune “As gripping as they come . . . You’ll be rooting for Watney the whole way, groaning at every setback and laughing at his pitchblack humor. Utterly nail-biting and memorable.”—Financial Times",
+      "imagem": "http://books.google.com/books/content?id=OPAgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "link": "http://books.google.gr/books?id=OPAgEAAAQBAJ&dq=martian&hl=&cd=1&source=gbs_api",
+      "id": 8
+    },
+    {
+      "titulo": "Artemis",
+      "descricao": "The bestselling author of The Martian returns with an irresistible new near-future thriller—a heist story set on the moon. Jasmine Bashara never signed up to be a hero. She just wanted to get rich. Not crazy, eccentric-billionaire rich, like many of the visitors to her hometown of Artemis, humanity’s first and only lunar colony. Just rich enough to move out of her coffin-sized apartment and eat something better than flavored algae. Rich enough to pay off a debt she’s owed for a long time. So when a chance at a huge score finally comes her way, Jazz can’t say no. Sure, it requires her to graduate from small-time smuggler to full-on criminal mastermind. And it calls for a particular combination of cunning, technical skills, and large explosions—not to mention sheer brazen swagger. But Jazz has never run into a challenge her intellect can’t handle, and she figures she’s got the ‘swagger’ part down. The trouble is, engineering the perfect crime is just the start of Jazz’s problems. Because her little heist is about to land her in the middle of a conspiracy for control of Artemis itself. Trapped between competing forces, pursued by a killer and the law alike, even Jazz has to admit she’s in way over her head. She’ll have to hatch a truly spectacular scheme to have a chance at staying alive and saving her city. Jazz is no hero, but she is a very good criminal. That’ll have to do. Propelled by its heroine’s wisecracking voice, set in a city that’s at once stunningly imagined and intimately familiar, and brimming over with clever problem-solving and heist-y fun, Artemis is another irresistible brew of science, suspense, and humor from #1 bestselling author Andy Weir.",
+      "imagem": "http://books.google.com/books/content?id=a8KtDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "link": "http://books.google.gr/books?id=a8KtDgAAQBAJ&printsec=frontcover&dq=artemis&hl=&cd=1&source=gbs_api",
+      "id": 9
+    },
+    {
+      "titulo": "The Martian",
+      "descricao": "#1 NEW YORK TIMES BESTSELLER • “Brilliant . . . a celebration of human ingenuity [and] the purest example of real-science sci-fi for many years . . . utterly compelling.”—The Wall Street Journal The inspiration for the major motion picture Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. Now, he’s sure he’ll be the first person to die there. After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive—and even if he could get word out, his supplies would be gone long before a rescue could arrive. Chances are, though, he won’t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old “human error” are much more likely to kill him first. But Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills—and a relentless, dogged refusal to quit—he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him? NAMED ONE OF PASTE’S BEST NOVELS OF THE DECADE “A hugely entertaining novel [that] reads like a rocket ship afire . . . Weir has fashioned in Mark Watney one of the most appealing, funny, and resourceful characters in recent fiction.”—Chicago Tribune “As gripping as they come . . . You’ll be rooting for Watney the whole way, groaning at every setback and laughing at his pitchblack humor. Utterly nail-biting and memorable.”—Financial Times",
+      "imagem": "http://books.google.com/books/content?id=OPAgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "link": "http://books.google.gr/books?id=OPAgEAAAQBAJ&dq=martian&hl=&cd=1&source=gbs_api",
+      "id": 10
+    },
+    {
+      "titulo": "Ο Χάρι Πότερ και το καταραμένο παιδί - μέρη ένα και δύο (Ειδική έκδοση του σεναρίου της πρόβας)",
+      "descricao": "Πέρασαν δεκαεννέα χρόνια από τότε που ο Χάρι Πότερ, ο Ρον Ουέσλι και η Ερμιόνη Γκρέιντζερ έσωσαν τον κόσμο των μάγων και τώρα επιστρέφουν με μιαν άκρως ασυνήθιστη περιπέτεια, στην οποία συμμετέχει και η νέα γενιά γενναίων μαθητών που μόλις έφτασε στη Σχολή Χόγκουαρτς για Μαγείες και Ξόρκια. Ενώ ο Χάρι παλεύει με το παρελθόν που αρνείται να παραμείνει παρελθόν, ο μικρότερος γιος του, ο Άλμπους, πασχίζει να σταθεί αντάξιος μιας οικογενειακής κληρονομιάς που δεν θέλησε ποτέ να έχει. Όσο το παρόν συγκρούεται με το παρελθόν, πατέρας και γιος εγκλωβίζονται σε μια μάχη με τον χρόνο, καθώς αντιμάχονται μυστηριώδεις δυνάμεις, ενώ το μέλλον κρέμεται από μια κλωστή. Βασισμένο στην αυθεντική ιστορία που έγραψαν οι J.K. Rowling, John Tiffany και Jack Thorne, το Ο Χάρι Πότερ και το καταραμένο παιδί είναι το πλήρες σενάριο της βραβευμένης θεατρικής παραγωγής που ανέβηκε στο Γουέστ Εντ, χωρίς περικοπές.",
+      "imagem": "http://books.google.com/books/content?id=1vq2DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "link": "http://books.google.gr/books?id=1vq2DAAAQBAJ&printsec=frontcover&dq=harry+potter&hl=&cd=1&source=gbs_api",
+      "id": 11
+    },
+    {
+      "titulo": "The Martian",
+      "descricao": "#1 NEW YORK TIMES BESTSELLER • “Brilliant . . . a celebration of human ingenuity [and] the purest example of real-science sci-fi for many years . . . utterly compelling.”—The Wall Street Journal The inspiration for the major motion picture Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. Now, he’s sure he’ll be the first person to die there. After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive—and even if he could get word out, his supplies would be gone long before a rescue could arrive. Chances are, though, he won’t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old “human error” are much more likely to kill him first. But Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills—and a relentless, dogged refusal to quit—he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him? NAMED ONE OF PASTE’S BEST NOVELS OF THE DECADE “A hugely entertaining novel [that] reads like a rocket ship afire . . . Weir has fashioned in Mark Watney one of the most appealing, funny, and resourceful characters in recent fiction.”—Chicago Tribune “As gripping as they come . . . You’ll be rooting for Watney the whole way, groaning at every setback and laughing at his pitchblack humor. Utterly nail-biting and memorable.”—Financial Times",
+      "imagem": "http://books.google.com/books/content?id=OPAgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "link": "http://books.google.gr/books?id=OPAgEAAAQBAJ&dq=martian&hl=&cd=1&source=gbs_api",
+      "id": 12
+    },
+    {
+      "titulo": "The Martian Chronicles",
+      "descricao": "The tranquility of Mars is disrupted by humans who want to conquer space, colonize the planet, and escape a doomed Earth.",
+      "imagem": "http://books.google.com/books/content?id=HzQXlPS48PQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "link": "http://books.google.gr/books?id=HzQXlPS48PQC&printsec=frontcover&dq=martian&hl=&cd=2&source=gbs_api",
+      "id": 13
+    },
+    {
+      "titulo": "Martian in the Playground",
+      "descricao": "`This deceptively little book contains more truth and provides more insight into what it is like to have Asperger′s Syndrome than many a weighty tome on the subject. It offers a view from the inside, but it is not yet another autobiography. Admirably and refreshingly, the author has refrained from giving an account solely based on her own experiences. Instead she sets out observations from 25 different suffers, giving often astonishing and sometimes harrowing glimpses of what actually happens to a child with Asperger′s Syndrome in the classroom, in the playground, in the lunch queue and at home′ - The Journal of Child Psychology and Psychiatry This award-winning book illuminates what it means to be a person who has Aspergers Syndrome by providing a window into a unique and particular world. Drawing on her own experience of schooling, and that of a network of friends and correspondents who share her way of thinking and responding, Clare Sainsbury reminds us of the potential for harm which education holds for those who do not fit. This book holds insights that take us beyond the standard guidance on how to manage autistic spectrum disorder. It challenges the way we might handle obsessional behaviour. It invites us to celebrate the pure passion of the intellect, which such obsessions can represent, and to recognise the delight which can be experienced by children who love to collect. It reminds us that many of the autistic mannerisms we might try to suppress actually help the child to think. This revised edition includes an additional introduction and extensive summary of research in the field of Asperger′s Syndrome, both by Tony Attwood.",
+      "imagem": "http://books.google.com/books/content?id=TbGwEaH8eAIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "link": "http://books.google.gr/books?id=TbGwEaH8eAIC&printsec=frontcover&dq=martian&hl=&cd=3&source=gbs_api",
+      "id": 14
+    },
+    {
+      "titulo": "Log Home Living",
+      "descricao": "Log Home Living is the oldest, largest and most widely distributed and read publication reaching log home enthusiasts. For 21 years Log Home Living has presented the log home lifestyle through striking editorial, photographic features and informative resources. For more than two decades Log Home Living has offered so much more than a magazine through additional resources–shows, seminars, mail-order bookstore, Web site, and membership organization. That's why the most serious log home buyers choose Log Home Living.",
+      "imagem": "http://books.google.com/books/content?id=wyYAAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "link": "http://books.google.gr/books?id=wyYAAAAAMBAJ&printsec=frontcover&dq=home&hl=&cd=1&source=gbs_api",
+      "id": 15
+    },
+    {
+      "titulo": "The Journal of Home Economics",
+      "imagem": "http://books.google.com/books/content?id=j8lOAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "link": "http://books.google.gr/books?id=j8lOAAAAYAAJ&q=home&dq=home&hl=&cd=2&source=gbs_api",
+      "id": 16
+    },
+    {
+      "titulo": "Timber Home Living",
+      "descricao": "Timber Home Living introduces and showcases the beauty and efficiency of timber homes to an eager custom home buying audience. The magazine’s inspiring photography, informative editorial, quality advertising and essential resources involves and encourages readers to pursue their dream home.",
+      "imagem": "http://books.google.com/books/content?id=kQ4AAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "link": "http://books.google.gr/books?id=kQ4AAAAAMBAJ&printsec=frontcover&dq=home&hl=&cd=3&source=gbs_api",
+      "id": 17
+    },
+    {
+      "titulo": "A Dictionary of the Greek and English Languages",
+      "imagem": "http://books.google.com/books/content?id=HUg5AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "link": "http://books.google.gr/books?id=HUg5AQAAMAAJ&pg=PA531&dq=again&hl=&cd=1&source=gbs_api",
+      "id": 18
     }
   ]
 }
