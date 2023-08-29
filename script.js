@@ -1,4 +1,4 @@
-const conexao = await fetch("https://api-five-fawn.vercel.app/");
+const conexao = await fetch("https://api-five-fawn.vercel.app/livros");
 const conexaoConvertida = await conexao.json();
 const deleteButton = document.querySelector('.delete');
 
