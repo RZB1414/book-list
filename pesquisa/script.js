@@ -69,7 +69,7 @@ async function buscaLivros(evento) {
             evento.preventDefault();
 
             //verifica se o livro já está na biblioteca
-            const conexaoIf = await fetch('http://localhost:3000/livros');
+            const conexaoIf = await fetch('https://api-five-fawn.vercel.app/');
             const conexaoIfConvertida = await conexaoIf.json();
             const livroExiste = conexaoIfConvertida.some(livros => livro.volumeInfo.title === livros.titulo);
 
@@ -78,7 +78,7 @@ async function buscaLivros(evento) {
             } else {
                 //add o livro na biblioteca
                 evento.preventDefault();
-                const conexao = await fetch('http://localhost:3000/livros', {
+                const conexao = await fetch('https://api-five-fawn.vercel.app/', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json'

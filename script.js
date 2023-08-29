@@ -1,5 +1,17 @@
-const conexao = await fetch("http://localhost:3000/livros");
+const conexao = await fetch("https://api-five-fawn.vercel.app/");
 const conexaoConvertida = await conexao.json();
+const deleteButton = document.querySelector('.delete');
+
+// deleteButton.addEventListener('click', (evento) => {
+//     evento.preventDefault();
+//     deleteBook(evento);
+// })
+
+// function deleteBook(evento){
+//     const bookSelected = swiper.activeIndex;
+//     conexaoConvertida.splice(bookSelected, 1);
+//     console.log(bookSelected);
+// }
 
 
 const changeableText = document.querySelector('#changeableText');

@@ -123,6 +123,27 @@
       "imagem": "http://books.google.com/books/content?id=HUg5AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "link": "http://books.google.gr/books?id=HUg5AQAAMAAJ&pg=PA531&dq=again&hl=&cd=1&source=gbs_api",
       "id": 18
+    },
+    {
+      "titulo": "The Martian's Regress",
+      "descricao": "**SHORTLISTED FOR THE TS ELIOT PRIZE 2020** From the winner of the Costa Poetry Award A lone martian returns to Earth. He leaves behind him a hardened survivalist culture, its muddled myths and songs, its continued abuse of the environment that sustains it. During this journey back to the now-broken and long-abandoned mother planet, the martian begins to consider his own uncertain origins, and his own future. Cut off from his people, the martian's story is that of the individual: his duty at odds with his desire; the race of which he's still a part playing always on his mind, as well as the race that once was. This is the story of what life becomes when stripped of all that makes it worth living - of what humans become when they lose their humanity. The Martian's Regress is a brilliant, provocative, often darkly comic work that explores what a fragile environment eventually makes of those who persist in tampering with it.",
+      "imagem": "http://books.google.com/books/content?id=GNqbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "link": "http://books.google.gr/books?id=GNqbDwAAQBAJ&pg=PT92&dq=martian&hl=&cd=4&source=gbs_api",
+      "id": 19
+    },
+    {
+      "titulo": "Guerra Do Velho",
+      "descricao": "A humanidade finalmente chegou à era das viagens interestelares. A má notícia é que há poucos planetas habitáveis disponíveis – e muitos alienígenas lutando por eles. Para proteger a Terra e também conquistar novos territórios, a raça humana conta com tecnologias inovadoras e com a habilidade e a disposição das FCD - Forças Coloniais de Defesa. Mas, para se alistar, é necessário ter mais de 75 anos. John Perry vai aceitar esse desafio, e ele tem apenas uma vaga ideia do que pode esperar.",
+      "imagem": "http://books.google.com/books/content?id=NZkkDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "link": "http://books.google.gr/books?id=NZkkDAAAQBAJ&printsec=frontcover&dq=guerra+do+velho&hl=&cd=1&source=gbs_api",
+      "id": 20
+    },
+    {
+      "titulo": "Birds of the Athenian Agora",
+      "descricao": "As well as the Little Owl or glaux, so often seen accompanying the goddess Athena, many other birds played an important role in Greek art and symbolism. This booklet describes the ways in which the Greeks viewed birds, from useful hawks and fowl to exotic parakeets and peacocks. Some of the birds most often depicted are imaginary, from the griffin to the phallos bird, whose head and neck consisted of an erect penis. The book ends with a field guide to species likely to be seen on a visit to the Agora archaeological park today.",
+      "imagem": "http://books.google.com/books/content?id=NIlN7Q5nxigC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "link": "http://books.google.gr/books?id=NIlN7Q5nxigC&pg=PA32&dq=agora&hl=&cd=3&source=gbs_api",
+      "id": 21
     }
   ]
 }
